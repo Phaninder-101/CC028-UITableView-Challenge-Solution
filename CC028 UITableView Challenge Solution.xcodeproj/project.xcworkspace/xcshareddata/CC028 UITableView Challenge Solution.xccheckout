@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F214490F-EEBB-4E87-9582-59D1A76E512F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CC028 UITableView Challenge Solution</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43FE27D06B8D37325D39F312F4D38A73F0C7B5C5</key>
+		<string>https://github.com/Phaninder-xcube/CC028-UITableView-Challenge-Solution.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CC028 UITableView Challenge Solution.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43FE27D06B8D37325D39F312F4D38A73F0C7B5C5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Phaninder-xcube/CC028-UITableView-Challenge-Solution.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43FE27D06B8D37325D39F312F4D38A73F0C7B5C5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43FE27D06B8D37325D39F312F4D38A73F0C7B5C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CC028%20UITableView%20Challenge%20Solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
